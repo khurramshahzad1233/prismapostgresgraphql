@@ -1,0 +1,15 @@
+---documentation for prisma postgreSQL url is
+https://www.prisma.io/docs/getting-started/setup-prisma/start-from-scratch/relational-databases-node-postgresql
+set up a complete project
+
+when you create a sechema then need to run this command this command create schema in database
+npx prisma migrate dev --name username
+
+npx prisma generate
+
+
+
+
+
+video link is 
+https://www.youtube.com/watch?v=GieVHRrcR-U&list=PLB97yPrFwo5i9zDrWfvkohPec3Q6EEC9J&index=6
